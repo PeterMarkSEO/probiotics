@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Probiotics Digest",
+    "description": "",
+    "home_page_url": "https://petermarkseo.github.io/probiotics",
+    "feed_url": "https://petermarkseo.github.io/probiotics/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Peter Potylicki"
+    },
+    "items": [
+    ]
+}
