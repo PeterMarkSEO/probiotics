@@ -3,10 +3,36 @@
     <title>Probiotics Digest</title>
     <link href="https://petermarkseo.github.io/probiotics/feed.xml" rel="self" />
     <link href="https://petermarkseo.github.io/probiotics" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2023-10-11T12:01:45-04:00</updated>
     <author>
         <name>Peter Potylicki</name>
     </author>
     <id>https://petermarkseo.github.io/probiotics</id>
 
+    <entry>
+        <title>About </title>
+        <author>
+            <name>Peter Potylicki</name>
+        </author>
+        <link href="https://petermarkseo.github.io/probiotics/about.html"/>
+        <id>https://petermarkseo.github.io/probiotics/about.html</id>
+
+        <updated>2023-10-11T12:01:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello and welcome to my Probiotics journey here where I will be posting anything and everything on probiotics. From probiotic recipes to research articles and local tastes, you will find it here. This blog site will be about my travels and experience living in Poland&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://petermarkseo.github.io/probiotics/media/posts/1/about-me-Peter-Potylicki.JPG" alt="Peter Potylicki probiotics" width="150" height="267" sizes="(min-width: 1260px) calc(3.22vw + 703px), (min-width: 900px) calc(50.59vw + 116px), (min-width: 840px) calc(5vw + 684px), calc(85.58vw + 23px)" srcset="https://petermarkseo.github.io/probiotics/media/posts/1/responsive/about-me-Peter-Potylicki-xs.JPG 320w ,https://petermarkseo.github.io/probiotics/media/posts/1/responsive/about-me-Peter-Potylicki-sm.JPG 480w ,https://petermarkseo.github.io/probiotics/media/posts/1/responsive/about-me-Peter-Potylicki-md.JPG 768w"></figure>
+<p>Hello and welcome to my Probiotics journey here where I will be posting anything and everything on probiotics. From probiotic recipes to research articles and local tastes, you will find it here.</p>
+<p>This blog site will be about my travels and experience living in Poland , The true Porbiotic Capital of the world.  Will be sharing probiotic benefits and much more from the locals. </p>
+<figure class="post__image"><img loading="lazy"  src="https://petermarkseo.github.io/probiotics/media/posts/1/farm-in-Poland-capital-of-probiotics.jpg" alt="Poland probiotics farm" width="500" height="375" sizes="(min-width: 1260px) calc(3.22vw + 703px), (min-width: 900px) calc(50.59vw + 116px), (min-width: 840px) calc(5vw + 684px), calc(85.58vw + 23px)" srcset="https://petermarkseo.github.io/probiotics/media/posts/1/responsive/farm-in-Poland-capital-of-probiotics-xs.jpg 320w ,https://petermarkseo.github.io/probiotics/media/posts/1/responsive/farm-in-Poland-capital-of-probiotics-sm.jpg 480w ,https://petermarkseo.github.io/probiotics/media/posts/1/responsive/farm-in-Poland-capital-of-probiotics-md.jpg 768w"></figure>
+<p>I am not a doctor or a researcher by any means, but with a little help from Academic AI, deep diving, local traditions, I'm sure you will find a benefit.</p>
+<p>Please do consult your doctor should you be starting any probiotics or any foods you may not be familiar with. This blog is not intended to provide medical advice. </p>
+<figure class="post__image"><img loading="lazy"  src="https://petermarkseo.github.io/probiotics/media/posts/1/probiotics-yogurt.JPG" alt="probiotics yogurt blog" width="500" height="888" sizes="(min-width: 1260px) calc(3.22vw + 703px), (min-width: 900px) calc(50.59vw + 116px), (min-width: 840px) calc(5vw + 684px), calc(85.58vw + 23px)" srcset="https://petermarkseo.github.io/probiotics/media/posts/1/responsive/probiotics-yogurt-xs.JPG 320w ,https://petermarkseo.github.io/probiotics/media/posts/1/responsive/probiotics-yogurt-sm.JPG 480w ,https://petermarkseo.github.io/probiotics/media/posts/1/responsive/probiotics-yogurt-md.JPG 768w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
