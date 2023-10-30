@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://petermarkseo.github.io/probiotics/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://probioticsdigest.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://petermarkseo.github.io/probiotics/</loc>
+<loc>https://probioticsdigest.com/</loc>
 </url>
 <url>
-<loc>https://petermarkseo.github.io/probiotics/about.html</loc>
+<loc>https://probioticsdigest.com/about.html</loc>
 <lastmod>2023-10-11T12:01:45-04:00</lastmod>
 <image:image>
-<image:loc>https://petermarkseo.github.io/probiotics/media/posts/1/about-me-Peter-Potylicki.JPG</image:loc>
+<image:loc>https://probioticsdigest.com/media/posts/1/about-me-Peter-Potylicki.JPG</image:loc>
 <image:title><![CDATA[Peter Potylicki probiotics]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://petermarkseo.github.io/probiotics/media/posts/1/farm-in-Poland-capital-of-probiotics.jpg</image:loc>
+<image:loc>https://probioticsdigest.com/media/posts/1/farm-in-Poland-capital-of-probiotics.jpg</image:loc>
 <image:title><![CDATA[Poland probiotics farm]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://petermarkseo.github.io/probiotics/media/posts/1/probiotics-yogurt.JPG</image:loc>
+<image:loc>https://probioticsdigest.com/media/posts/1/probiotics-yogurt.JPG</image:loc>
 <image:title><![CDATA[probiotics yogurt blog]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://petermarkseo.github.io/probiotics/privacy-policy.html</loc>
+<loc>https://probioticsdigest.com/privacy-policy.html</loc>
 <lastmod>2023-10-30T13:25:36-04:00</lastmod>
 </url>
 <url>
-<loc>https://petermarkseo.github.io/probiotics/terms-of-service.html</loc>
+<loc>https://probioticsdigest.com/terms-of-service.html</loc>
 <lastmod>2023-10-30T13:32:48-04:00</lastmod>
 </url>
 </urlset>
